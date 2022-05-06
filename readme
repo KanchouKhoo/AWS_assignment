@@ -5,7 +5,7 @@
 sudo su
 yum update -y
 yum install git -y
-git clone https://github.com/chowkokkeong/AWS_assignment.git
+git clone https://github.com/khoojiakang/AWS_assignment.git
 cd aws-testing1
 pip3 install flask
 pip3 install pymysql
